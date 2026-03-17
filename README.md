@@ -14,7 +14,7 @@ The goal is to explore multiple datasets and understand the most common cancer t
 <li>Identify the most common cancer types.</li>
 <li>Study cancer statistics in Egypt and globally.</li>
 <li>Explore relationships between cancer cases and other indicators.</li>
-<li>Create visual dashboards to present insights.</li>
+<li>Create interactive dashboards for better data visualization.</li>
 </ul>
 
 <hr>
@@ -52,14 +52,37 @@ Source: Kaggle
 <h2>🛠 Tools & Technologies</h2>
 
 <ul>
-<li>Python</li>
-<li>Pandas</li>
-<li>NumPy</li>
-<li>Matplotlib</li>
-<li>Seaborn</li>
+<li>Python (Pandas, NumPy)</li>
+<li>Data Visualization (Matplotlib, Seaborn)</li>
 <li>SQL</li>
 <li>Jupyter Notebook</li>
-<li>Power BI</li>
+<li>Power BI (Dashboard Creation)</li>
+</ul>
+
+<hr>
+
+<h2>👥 Team Members</h2>
+
+<ul>
+<li><b>Mostafa Elsharkawi</b> – Project Lead & Data Analyst</li>
+<li><b>Hoda Khaled</b> – Data Cleaning & Preprocessing</li>
+<li><b>Mohamed Helal</b> – Data Analysis & Insights</li>
+<li><b>Ahmed Essam</b> – Data Visualization</li>
+<li><b>Abdelrahman Rabie</b> – Dashboard Development (Power BI)</li>
+</ul>
+
+<hr>
+
+<h2>🧩 Roles & Responsibilities</h2>
+
+<ul>
+<li><b>Project Management:</b> Planning, coordination, and workflow organization.</li>
+<li><b>Data Collection:</b> Gathering datasets from multiple sources.</li>
+<li><b>Data Cleaning:</b> Handling missing values, duplicates, and inconsistencies.</li>
+<li><b>Exploratory Data Analysis (EDA):</b> Understanding patterns and trends in the data.</li>
+<li><b>Data Visualization:</b> Creating charts and graphs for insights.</li>
+<li><b>Dashboard Development:</b> Building interactive dashboards using Power BI.</li>
+<li><b>Reporting:</b> Summarizing insights and presenting findings.</li>
 </ul>
 
 <hr>
@@ -70,8 +93,10 @@ Source: Kaggle
 <li>Data Collection</li>
 <li>Data Cleaning</li>
 <li>Exploratory Data Analysis (EDA)</li>
+<li>Feature Understanding</li>
 <li>Data Visualization</li>
-<li>Insights & Conclusions</li>
+<li>Dashboard Creation</li>
+<li>Insights & Reporting</li>
 </ol>
 
 <hr>
@@ -80,7 +105,7 @@ Source: Kaggle
 
 <ul>
 <li>Understanding cancer trends over time.</li>
-<li>Identifying the most common cancer types.</li>
-<li>Building visual dashboards for analysis.</li>
-<li>Providing useful insights from the data.</li>
+<li>Identifying the most common cancer types in Egypt and globally.</li>
+<li>Creating professional dashboards for data visualization.</li>
+<li>Providing actionable insights based on data.</li>
 </ul>
