@@ -7,6 +7,14 @@ The goal is to explore multiple datasets and understand the most common cancer t
 
 <hr>
 
+<h2>🎓 Instructor</h2>
+
+<p>
+<b>Karim Baqli</b> – Project Supervisor / Instructor
+</p>
+
+<hr>
+
 <h2>📊 Project Objectives</h2>
 
 <ul>
